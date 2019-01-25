@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<account-persist> 
+  <accounts> 
+    <account> 
+      <id>mike</id>  
+      <name>Mike</name>  
+      <email>mike@changeme.com</email>  
+      <password>this_should_be_encrypted</password>  
+      <activated>true</activated> 
+    </account>  
+    <account> 
+      <id>juven</id>  
+      <name>Juven Xu 1</name>  
+      <email>juven1@changeme.com</email>  
+      <password>this_still_should_be_encrypted</password>  
+      <activated>false</activated> 
+    </account>  
+    <account> 
+      <id>juven</id>  
+      <name>Juven Xu</name>  
+      <email>juven@changeme.com</email>  
+      <password>this_should_be_encrypted</password>  
+      <activated>true</activated> 
+    </account>  
+    <account>
+      <id>juven</id>
+      <name>Juven Xu</name>
+      <email>juven@changeme.com</email>
+      <password>this_should_be_encrypted</password>
+      <activated>true</activated>
+    </account>
+  </accounts> 
+</account-persist>
